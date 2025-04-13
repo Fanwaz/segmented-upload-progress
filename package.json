@@ -1,0 +1,25 @@
+{
+  "name": "segmented-upload-progress",
+  "version": "1.0.0",
+  "description": "A modern, customizable file upload component with a segmented progress bar",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["upload", "progress", "file", "react", "nextjs", "ui", "component"],
+  "author": "Nuvio Labs",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "dependencies": {
+    "lucide-react": "^0.294.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
